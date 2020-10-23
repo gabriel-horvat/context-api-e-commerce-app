@@ -1,13 +1,14 @@
-This is a work in progress :)
+## CONTEXT API Shopify Clone React & Firebase
+
 ---
 
-## Shopify clone w/ Redux-Saga, Jest, Enzyme, Stripe Integration
-
-This is a basic Shopify clone using React on the frontend and a basic Firebase backend.
+This is the Shopify clone/ E-commerce App refactored using the Context API instead of Redux.
 
 
-### Live Demo hosted on Heroku
-Check it out here:
+Find the live demo here:
 https://www.shopifyclone.xyz/
+
+### Find the main app here:
+https://github.com/gabriel-horvat/e-commerce-app
 
 
